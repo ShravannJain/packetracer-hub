@@ -1,6 +1,6 @@
 # Packet Tracer Projects
 
-This repository contains various **Packet Tracer** networking projects, ranging from basic home networks to advanced setups[still learning though].
+This repository contains various **Packet Tracer** networking projects, That includes all my learning progress.
 
 ## 📌 About
 These projects are created to **learn and simulate** different networking concepts using **Cisco Packet Tracer**.
@@ -20,13 +20,6 @@ These projects are created to **learn and simulate** different networking concep
    ```
 2. Open **Cisco Packet Tracer**.
 3. Load the `.pkt` file to explore the project.
-
-## 🤝 Contributions
-Feel free to **fork this repo**, improve the projects, and submit a pull request!
-
-## 📜 License
-This project is open-source and available under the **MIT License**.
-
 ---
 Happy networking! 🚀
 
